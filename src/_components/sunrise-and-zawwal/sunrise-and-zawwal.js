@@ -37,7 +37,7 @@ class SunriseAndZawwal extends Component {
           <thead>
             <tr>
               <th>Sunrise</th>
-              <th>&nbsp;</th>
+              <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
             </tr>
           </thead>
           <tbody>
