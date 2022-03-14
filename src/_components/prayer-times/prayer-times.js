@@ -75,8 +75,8 @@ class PrayerTimes extends Component {
             <tr>
               <th />
               <th />
-              <th>Begins</th>
-              <th>Jama'ah</th>
+              <th>Athan</th>
+              <th>Iqama</th>
             </tr>
           </thead>
           <tbody>
