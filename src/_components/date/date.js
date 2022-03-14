@@ -30,8 +30,8 @@ class Date extends Component {
       <div className="DateWrapper">
         <div className="Date">
           <div className="row">{this.state.dayOfWeek}</div>
-          <div className="row">{this.state.date}</div>
           <div className="row">{this.state.hijriDate}</div>
+          <div className="row">{this.state.date}</div>
         </div>
       </div>
     );
